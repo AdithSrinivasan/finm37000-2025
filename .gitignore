@@ -32,3 +32,6 @@ venv/
 
 # IDEs
 .idea/
+
+# Databento
+.databento_api_key
