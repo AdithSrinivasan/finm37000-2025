@@ -30,6 +30,9 @@ MANIFEST
 .venv
 venv/
 
+pdfs/
+data/
+
 # IDEs
 .idea/
 

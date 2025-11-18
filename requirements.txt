@@ -26,7 +26,7 @@ defusedxml==0.7.1
 executing==2.2.1
 fastjsonschema==2.21.2
 filelock==3.20.0
--e git+https://github.com/AdithSrinivasan/finm37000-2025.git@9c6c457cebf89d69fd2358b225fa7dfccc0c2b06#egg=finm37000_2025
+-e git+https://github.com/AdithSrinivasan/finm37000-2025.git@f3c0055445363a6e56c36c02ba37ea8dbcf94672#egg=finm37000_2025
 fonttools==4.60.1
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -129,5 +129,6 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
+xlrd==2.0.2
 yarl==1.22.0
 zstandard==0.25.0
